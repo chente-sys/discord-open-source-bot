@@ -1,4 +1,4 @@
-exports.TOKEN = "BOT TOKEN HERE";
+exports.TOKEN = "NzgxMzY4OTIyMjM4NjE1NTgy.X78ohA.pHc2LQhR8X6Gx3j4IQwHsfprE6k";
 
 exports.DBL_API_KEY = "NONE";
 
